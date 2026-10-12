@@ -4,7 +4,7 @@ Read this before you start. It describes the environment your solution has to wo
 
 ## The company
 
-- Apify is a web scraping and automation platform (Prague HQ, remote-friendly). Around [FILL: headcount] people across [FILL: number] teams (Engineering, Product, Marketing, Sales, Customer Success, People, Finance, Legal, ...).
+- Apify is a web scraping and automation platform (Prague HQ, remote-friendly). Around 250+ people across 50+ teams (Engineering, Product, Marketing, Sales, Customer Success, People, Finance, Legal, ...).
 - Mostly technical audience: a large share of Apifiers are engineers who default to GitHub and Slack, not Notion.
 - Working language is English. Slack is the main internal channel, email the main external one.
 - Every Apifier has unlimited Claude. AI agents (Claude, connected to Notion, Slack, Google Drive and GitHub via connectors/MCP) are a first-class reader of our knowledge base, not an afterthought.
@@ -20,7 +20,7 @@ Read this before you start. It describes the environment your solution has to wo
 
 ## Notion plan and its constraints
 
-- **We are on the Notion Plus plan.** We evaluated Business/Enterprise together with the Notion team and decided to stay on Plus. Reasons: [FILL: e.g. cost per seat at our headcount vs. the value of the extra features, overlap with Claude which we already pay for, ...].
+- **We are on the Notion Plus plan.** We evaluated Business/Enterprise together with the Notion team and decided to stay on Plus. 
 - Treat this as a fixed constraint. **Solutions that only work after upgrading to Business/Enterprise won't be accepted.** If you think an upgrade is genuinely worth it, you can make that case separately, with numbers.
 - What this means in practice:
   - No Notion AI. We use Claude (with the Notion connector) instead.
